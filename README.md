@@ -32,7 +32,12 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 通过
 
 第二关
-由于组员王昌国同学的代码有问题，无法交叉测试
+
+![2023-10-07 15 04 01](https://github.com/Vincent910603/S-DES/assets/75138057/649480c5-62fa-497b-aae5-c2281dc10ecb)
+
+![image](https://github.com/Vincent910603/S-DES/assets/75138057/117722d4-9643-41e9-95cf-6e130443c20b)
+通过
+
 
 第三关
 ASCII功能
